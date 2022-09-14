@@ -1,2 +1,2 @@
 # virtaulPaint
-VIrtual Paint
+Virtual Paint
